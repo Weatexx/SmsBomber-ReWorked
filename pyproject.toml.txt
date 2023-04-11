@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "repl_nix_BtcTurk-SmsBomber"
+version = "0.1.0"
+description = ""
+authors = ["Replit user <<>>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+urllib3 = "^1.26.14"
+bs4 = "^0.0.1"
+colorama = "^0.4.6"
+requests = "^2.28.2"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
