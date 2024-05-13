@@ -1,12 +1,13 @@
-# SmsBomber-ReWorked
-For Educational Purposes - Arda Koray Kartal
+Arda Koray Kartal
 
-Arda Koray Kartal 11/ATP-A 18648
+(TR)
+Python dilinde yazılmış mesaj botu.
+Üzerinde yapılan değişiklik ve kullanım sorumluluğu kullanıcının kendisine aittir.                                                                                                            
 
-Python dilinde yazılmış hazır uygulama                                                                                                                    
------------------------------------ENG----------------------------------
-Arda Koray Kartal 11/ATP-A 18648
-Ready application written in python language       
+(ENG)
+Message bot written with Python.
+The responsibility for modifications and use belongs to the user.
+      
                                                                     
-                                                            //11-04-2023\\
+                                                          
 
